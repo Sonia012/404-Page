@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: red;
+  font-family: verdana;
+  font-size: 300%;
+}
+h3 {
+  color: white;
+  font-family: courier;
+  font-size: 160%;
+}
+
+img {
+  border-radius: 20%,
+  border: 20px 20px 20px 20px;
+}
