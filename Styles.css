@@ -5,17 +5,14 @@ h1 {
   color: red;
   font-family: verdana;
   font-size: 300%;
-  text-align: center;
 }
 h3 {
   color: white;
   font-family: courier;
   font-size: 160%;
-  text-align: center;
 }
 
 img {
   border-radius: 20%,
   border: 20px 20px 20px 20px;
-  text-align: center;
 }
