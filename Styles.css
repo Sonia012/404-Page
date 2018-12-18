@@ -13,7 +13,7 @@ h3 {
 }
 
 img {
-  border-radius: 20%,
+  border-radius: 20%;
   height: 400px;
   width: 300px;
 }
@@ -30,4 +30,8 @@ button {
   position: absolute;
   left: 100px;
 
+}
+
+button:hover{
+  background-color:#999;
 }
